@@ -1,0 +1,6 @@
+model_checkpoint_path: "generator.ckpt-2600"
+all_model_checkpoint_paths: "generator.ckpt-2200"
+all_model_checkpoint_paths: "generator.ckpt-2300"
+all_model_checkpoint_paths: "generator.ckpt-2400"
+all_model_checkpoint_paths: "generator.ckpt-2500"
+all_model_checkpoint_paths: "generator.ckpt-2600"
